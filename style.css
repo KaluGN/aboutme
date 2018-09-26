@@ -1,4 +1,12 @@
-.contac-me{
+.text-over{
+    position: absolute;
+    top: 35%;
+    left: 45%;
+    color: #ffffff;
+    transform: translate(-50%, -50%);
+}
+
+.contact-me{
     background: #9e0e1a;
     color: #ffffff;
 }
